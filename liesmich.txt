@@ -1,4 +1,4 @@
-SoundCloud Stream auf Artikeldetailseite 1.2 für Zen Cart 1.5.6 deutsch
+SoundCloud Stream auf Artikeldetailseite 1.2.1 für Zen Cart 1.5.6 deutsch
 
 Mit dieser Erweiterung kann ein SoundCloud Stream auf der Artikeldetailseite integriert werden.
 Der Stream wird responsiv eingebunden.
@@ -9,6 +9,13 @@ Es ist also nicht nötig den kompletten Einbettungscode zu verwenden und die Anz
 Installation und Verwendung:
 
 Dieses Modul ist nur für Zen Cart 1.5.6 deutsch geeignet.
+
+================= WICHTIG =====================
+Bevor Sie Ihren 1.5.6 Shop weiter modifizieren, stellen Sie erst sicher, dass Sie die neueste 1.5.6 Version verwenden.
+Das ist derzeit 1.5.6e
+Sollten Sie noch 1.5.6d oer 1.5.6c verwenden, aktualisieren Sie Ihren Shop zunächst auf 1.5.6e, bevor Sie dieses Modul installieren.
+Die mitgelieferten GEAENDERTEN DATEIEN dieses Moduls sind auf dem Stand von 1.5.6e
+=================================================
 
 Für den Einbau dieses Moduls sollten Sie über folgende Werkzeuge verfügen:
 
